@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cloud DevOps Engineer at Enhub.ai focused on cloud migration, infrastructure automation, and cost optimization across GCP and AWS. I build reusable Terraform modules, design CI/CD pipelines, and help teams ship faster with less manual effort.
+Cloud DevOps Engineer focused on cloud migration, infrastructure automation, and cost optimization across GCP and AWS. I build reusable Terraform modules, design CI/CD pipelines, and help teams ship faster with less manual effort.
 
 
 ## 🌐 Socials:
